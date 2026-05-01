@@ -1,11 +1,11 @@
-# Disease Prediction System 🩺
+# Disease Prediction System 
 
 An end-to-end Machine Learning project to predict the likelihood of diseases (Heart Disease, Diabetes, Breast Cancer) based on patient medical data.
 
-## 🚀 Project Overview
+## Project Overview
 This project demonstrates a full ML lifecycle, including data preprocessing, feature selection, model training (Logic Regression, SVM, Random Forest, XGBoost), and deployment via a Flask web application and a modern React dashboard.
 
-## 📁 Project Structure
+##  Project Structure
 - `data/`: Placeholder for datasets.
 - `src/ml/`: Python source code for training and preprocessing.
 - `models/`: Saved model files (.pkl).
@@ -13,7 +13,7 @@ This project demonstrates a full ML lifecycle, including data preprocessing, fea
 - `src/`: React frontend (Vite).
 - `requirements.txt`: Python dependencies.
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### Backend (Python/Flask)
 1. Install dependencies:
@@ -39,7 +39,7 @@ This project demonstrates a full ML lifecycle, including data preprocessing, fea
    npm run dev
    ```
 
-## ⚠️ Ethics & Disclaimer
+##  Ethics & Disclaimer
 Machine learning in healthcare is a powerful tool but comes with significant responsibilities:
 - **Accuracy Matters**: False negatives (failure to detect a disease) can lead to delayed treatment, while false positives can cause unnecessary anxiety and invasive procedures.
 - **Support, Not Replace**: These models should be used as **support tools** for medical professionals, not as a replacement for expert diagnosis.
@@ -49,4 +49,4 @@ Machine learning in healthcare is a powerful tool but comes with significant res
 **DISCLAIMER**: This application is for educational purposes only. Always consult a qualified medical professional for health concerns.
 
 ---
-Built as a College/Internship portfolio project.
+Built as a Internship portfolio project.
