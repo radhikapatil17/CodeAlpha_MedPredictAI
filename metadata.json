@@ -1,0 +1,6 @@
+{
+  "name": "Disease Prediction System",
+  "description": "A comprehensive machine learning system for predicting disease likelihood (Heart Disease, Diabetes, Breast Cancer) based on medical statistics, featuring a Flask backend and a modern React dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
